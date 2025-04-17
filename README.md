@@ -18,7 +18,7 @@ As part of my Master’s in Business Analytics, this project walks through:
 3. **Building Classification Trees in Python**  
 4. **Bonus Question**  
 
-All steps are in `notebooks/HW6.1.ipynb` and `notebooks/HW6.2.ipynb`.
+All steps are in `notebooks/Preparation 6.ipynb`, `notebooks/HW6.1.ipynb` and `notebooks/HW6.2.ipynb`.
 
 ## 🔧 Tools & Libraries
 
