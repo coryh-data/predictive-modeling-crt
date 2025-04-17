@@ -3,9 +3,7 @@
 This repo contains my graduate coursework on predictive modeling using Classification and Regression Trees (CART).
 
 ## 📂 Repository Structure
-
-- **data/**  
-  Contains dataset(s) used in the analysis.  
+  
 - **notebooks/**  
   Jupyter notebook with full code, commentary, and outputs.  
 
